@@ -1,6 +1,6 @@
-# Portfolio Case Studies
+# Case Study
 
-A public, case-study-only collection of six customer, product, and learning projects from Rijul Raj's portfolio.
+A public collection of six customer, product, and learning case studies from Rijul Raj's portfolio.
 
 This repository contains written case-study summaries only. It intentionally excludes personal contact details, the private portfolio source, user-provided graphics, and copied game source code. The memory-game entry links to its original public project instead.
 
@@ -8,12 +8,12 @@ This repository contains written case-study summaries only. It intentionally exc
 
 | # | Case study | Summary |
 | --- | --- | --- |
-| 01 | [Escalation Triage Assistant](case-studies/01-escalation-triage.md) | Rule-based urgency signals and suggested first responses. |
-| 02 | [Client Health-Score Tracker](case-studies/02-client-health-score.md) | A simple engagement and recency score for prioritizing follow-up. |
-| 03 | [Voice-of-Customer Signal Extractor](case-studies/03-voc-signal-extractor.md) | Frequency-based themes from feedback lines. |
-| 04 | [Sweet Shop](case-studies/04-sweet-shop.md) | A small budgeting game for choosing treats. |
-| 05 | [Decision Copilot](case-studies/05-decision-copilot.md) | A human-owned workflow concept for consequential team decisions. |
-| 06 | [GitHub Copilot Memory Game](case-studies/06-memory-game.md) | A browser game used as a hands-on GitHub Copilot learning project. |
+| 01 | [Escalation Triage Assistant](case-studies/escalation-triage-assistant.md) | Rule-based urgency signals and suggested first responses. |
+| 02 | [Client Health-Score Tracker](case-studies/client-health-score-tracker.md) | A simple engagement and recency score for prioritizing follow-up. |
+| 03 | [Voice-of-Customer Signal Extractor](case-studies/voice-of-customer-signal-extractor.md) | Frequency-based themes from feedback lines. |
+| 04 | [Sweet Shop](case-studies/sweet-shop.md) | A small budgeting game for choosing treats. |
+| 05 | [Decision Copilot](case-studies/decision-copilot.md) | A human-owned workflow concept for consequential team decisions. |
+| 06 | [GitHub Copilot Memory Game](case-studies/github-copilot-memory-game.md) | A browser game used as a hands-on GitHub Copilot learning project. |
 
 ## Project Principles
 
